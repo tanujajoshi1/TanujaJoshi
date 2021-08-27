@@ -262,7 +262,7 @@ background: black;
     width: 90%;
     object-fit:cover;
     
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 
@@ -366,10 +366,10 @@ transition: all 0.3s ease;
     width:150px;
     object-fit:cover;
     border-radius: 50%;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 .experience .carousel .card:hover img{
-   border-color: rgb(250, 247, 247);
+   border-color: black;
 }
 .experience .carousel .card:hover .box{
     transform: scale(1.05);
