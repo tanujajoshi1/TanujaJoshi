@@ -50,13 +50,13 @@ document.getElementById('year').innerHTML=year;
     })
 
     var typed=new Typed(".typing",{
-        strings:['Student', 'Developer', 'Freelancer'],
+        strings:['Software Developer', 'Web Developer','Freelancer'],
         typeSpeed:100,
         backSpeed:50,
         loop:true
     })
     var typed=new Typed(".typing1",{
-        strings:['Student', 'Developer', 'Freelancer'],
+        sstrings:['Software Developer', 'Web Developer','Freelancer'],
         typeSpeed:100,
         backSpeed:50,
         loop:true
