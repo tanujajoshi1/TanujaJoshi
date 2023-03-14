@@ -56,7 +56,7 @@ document.getElementById('year').innerHTML=year;
         loop:true
     })
     var typed=new Typed(".typing1",{
-        sstrings:['Software Developer', 'Web Developer','Freelancer'],
+        strings:['Software Developer', 'Web Developer','Freelancer'],
         typeSpeed:100,
         backSpeed:50,
         loop:true
